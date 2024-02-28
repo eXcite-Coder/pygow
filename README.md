@@ -13,7 +13,7 @@ $ pip install pygow==0.5
 
 **Maybe**
 
-A `Maybe` represents an optional value.  It can be either `Nothing`, or
+A `Maybe` represents an optional value.  It either be `Nothing`, or
 `Just(a)` for some value `a`.
 
 A `Maybe` instance includes the following methods:
