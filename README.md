@@ -16,7 +16,7 @@ $ pip install pygow==0.5
 A `Maybe` represents an optional value.  It either be `Nothing`, or
 `Just(a)` for some value `a`.
 
-A `Maybe` instance includes the following methods:
+A `Maybe` instance includes these following methods:
 
 * `is_just()`: Returns true if this is a `Just`, or false if it is a
   `Nothing`
